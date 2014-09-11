@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 310c8400c775bc749a4f0bc894767a6b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Dragon
+    21300002: Dragon_0
+    21300004: Dragon_1
+    21300006: Dragon_2
+    21300008: Dragon_3
+    21300010: Dragon_4
+    21300012: Dragon_5
+    21300014: Dragon_6
+    21300016: Dragon_7
+    21300018: Dragon_8
+    21300020: Dragon_9
+    21300022: Dragon_10
+    21300024: Dragon_11
+    21300026: Dragon_12
+    21300028: Dragon_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Dragon_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 173
+        width: 101
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dragon_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 173
+        width: 101
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dragon_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 173
+        width: 98
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dragon_3
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 170
+        width: 92
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dragon_4
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 173
+        width: 94
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dragon_5
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 172
+        width: 90
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dragon_6
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 168
+        width: 80
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dragon_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 102
+        width: 85
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dragon_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 108
+        width: 90
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dragon_9
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 109
+        width: 97
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dragon_10
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 109
+        width: 100
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dragon_11
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 109
+        width: 101
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dragon_12
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 109
+        width: 101
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dragon_13
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 109
+        width: 101
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

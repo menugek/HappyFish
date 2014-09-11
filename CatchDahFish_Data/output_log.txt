@@ -1,0 +1,22 @@
+Initialize engine version: 4.5.2f1 (9abb1b59b47c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 670 (ID=0x1189)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Kevin\Pictures\Documents\GitHub\HappyFish\CatchDahFish_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Kevin\Pictures\Documents\GitHub\HappyFish\CatchDahFish_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Kevin\Pictures\Documents\GitHub\HappyFish\CatchDahFish_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Kevin\Pictures\Documents\GitHub\HappyFish\CatchDahFish_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.038 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.185101 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 644.
+Total: 0.487784 ms (FindLiveObjects: 0.018335 ms CreateObjectMapping: 0.007858 ms MarkObjects: 0.097207 ms  DeleteObjects: 0.002910 ms)
+
